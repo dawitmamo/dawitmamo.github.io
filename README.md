@@ -11,8 +11,8 @@ A responsive, light-theme portfolio website for GitHub Pages. The site emphasize
 
 ## Before publishing
 
-1. Add a professional photo if desired. The current version uses a designed monogram illustration, so no image is required.
-2. Add a CV file later if you want a downloadable résumé.
+1. `dawit.JPG` is used as the profile photo in the hero section.
+2. `Dawit_mamo_cv (1).pdf` is linked from the navigation, hero, and About section.
 3. Verify project details and replace general GitHub profile links with specific repository links or case studies.
 4. Make sure each listed skill reflects work you can confidently discuss.
 5. Check the email and LinkedIn links.
