@@ -1,6 +1,6 @@
 # Dawit Mamo — Freelance Portfolio
 
-A responsive, light-theme portfolio website for GitHub Pages. The site emphasizes freelance services, selected project areas, technical skills, and clear contact links.
+A responsive, dark-theme portfolio website for GitHub Pages. The site emphasizes freelance services, selected project areas, technical skills, and clear contact links.
 
 ## Files
 
